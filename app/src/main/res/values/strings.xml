@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Api-layout</string>
+    <string name="to_totorial">To-totorial</string>
+    <string name="foodd">Foodd</string>
+    <string name="todo">TODO</string>
+    <string name="decide">Decide</string>
+</resources>
